@@ -9,6 +9,7 @@
      <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ricardoo9&show_icons=true&theme=radical" />
      <img height="200px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </div>
+  💐🌸💮🏵️🌹🥀🌺🌻🌼🌷🌱🌲🌳🌴🌵🌾🌿☘️🍀🍁🍂🍃💐🌸💮🏵️🌹🌺🌻🌼🌷🌱🌲🌳🌴🌵🌾🌿☘🍁🍂🍃💐🌸💮🏵️
  <div>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricardoo9/ricardoo9/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricardoo9/ricardoo9/output/github-contribution-grid-snake.svg">
