@@ -17,7 +17,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricardoo9/ricardoo9/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ricardoo9/ricardoo9/output/github-contribution-grid-snake.svg">
  </div>
-   💐🌸💮🏵️🌹🥀🌺🌻🌼🌷🌱🌲🌳🌴🌵🌾🌿☘️🍀🍁🍂🍃💐🌸💮🏵️🥀🌺🌻🌼🌷🌱🌲🌳🌴🌵🌾🌿☘🍁🍂🍃💐🌸💮🏵️
+ 
+## 让我感到为难的是挣扎的自由
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ricardoo9&theme=xcode" /> </div>
 
 
