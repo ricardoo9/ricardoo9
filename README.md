@@ -1,4 +1,4 @@
-## 穿过幽暗的岁月 也曾感到彷徨 💐
+## 穿过幽暗的岁月 也曾感到彷徨 
 
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
