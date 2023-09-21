@@ -1,4 +1,4 @@
-## 穿过幽暗的岁月 也曾感到彷徨 
+## its me
 
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
@@ -9,14 +9,14 @@
      <img height="200px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </div>
 
-## 方向和天气的节奏会让你忧愁
+## just relax
  <div>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricardoo9/ricardoo9/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricardoo9/ricardoo9/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ricardoo9/ricardoo9/output/github-contribution-grid-snake.svg">
  </div>
  
-## 让我感到为难的是挣扎的自由
+## take it easy
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ricardoo9&theme=xcode" /> </div>
 
 
