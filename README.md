@@ -1,4 +1,4 @@
-## its me
+## hello its me
 
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
