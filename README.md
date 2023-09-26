@@ -6,7 +6,7 @@
   </div>
    <div align="center">
      <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ricardoo9&show_icons=true&theme=radical" />
-     <img height="199px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+     <img height="197px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </div>
 
 ## just relax
