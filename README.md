@@ -16,7 +16,5 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ricardoo9/ricardoo9/output/github-contribution-grid-snake.svg">
  </div>
  
-## take it easy
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ricardoo9&theme=xcode" /> </div>
 
 
