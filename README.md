@@ -1,4 +1,4 @@
-## hello its me
+## Hello World
 
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
@@ -9,7 +9,7 @@
      <img height="199px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </div>
 
-## just relax
+## Just Relax
  <div>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricardoo9/ricardoo9/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricardoo9/ricardoo9/output/github-contribution-grid-snake.svg">
