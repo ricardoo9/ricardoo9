@@ -2,7 +2,7 @@
 
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=welcome to my world;&center=true&size=27" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome to my github;&center=true&size=27" alt="Typing SVG" />
   </div>
    <div align="center">
      <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ricardoo9&show_icons=true&theme=radical" />
